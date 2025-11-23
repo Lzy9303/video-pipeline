@@ -1,0 +1,15 @@
+Project to be reorg
+
+1. replace background with clean background created with llm from a frame extracted from the product description part
+2. attach banner
+3. attach background music
+4. attach captions
+5. attach facial effects
+
+How to run a demo:
+1. get the sam2 setup
+2. download the model files for the few models
+3. run test_with_transitions under src/sam2/test.py with the video file to work on
+4. run src/bgm/bgm_mixer.py with correct paths to attach bgm
+5. generate caption objects in the same format as src/caption/resources/parsed.json with your own implementation
+6. run src/caption/caption.py with proper paths

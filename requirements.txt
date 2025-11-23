@@ -1,0 +1,29 @@
+--index-url https://download.pytorch.org/whl/cu124
+--extra-index-url https://pypi.org/simple
+google-genai
+opencv-python
+scikit-image
+moviepy==1.0.3
+requests
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+torchaudio==2.6.0+cu124
+av
+PyYAML
+Pillow
+numpy==1.26.0
+einops
+omegaconf
+hydra-core
+matplotlib
+accelerate>=0.22.0
+torchdiffeq>=0.2.3
+diffusers==0.26.3
+huggingface_hub==0.34.0
+xformers==0.0.29.post2
+transformers==4.57.0
+qwen_vl_utils
+hf_xet
+retina-face
+tf-keras
+assemblyai

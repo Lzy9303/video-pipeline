@@ -1,0 +1,2949 @@
+{
+  "id": "b6b3bff9-81ac-4f0b-a513-c0ef7b401ce5",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "zh",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/90354742-9821-41ae-828e-f234b585ee65",
+  "text": "而且不是我们带的好他因为本身东西好价格便宜很少各大网红直播间去哪都好卖抖音能卖到第一名这说明说明了很多问题对好这个是著名的吉普这个不用解释的牌子了比如说钓鱼路营登山等等遇到潜水鞋子浸泡到水中正常躺水什么的都没问题鞋面有两层第一层是织物面有一点点防水效果能应对日常生活的破茧真正防水能力靠的是第二层第二层的内层有一层防水透气膜它透气不透水鞋面采用的是非织工艺它是用各种纱线一体成型的搭配鞋底的锯齿纹路增强了抓地力更加的适合户外的运动所以这个脚踝包裹的也非常好来自知名品牌极普的980块钱的鞋我们24折做到28块钱整个这个品牌呢公司是实力非常雄厚的品控也非常严格的足够让人放心您看一下价格确实划算您就下单对对这个不是总有有的时候你赶上就赚翻了这个价格真是就交个朋友库存有限心动的抓紧.",
+  "words": [
+    {
+      "text": "而且",
+      "start": 128,
+      "end": 408,
+      "confidence": 1,
+      "speaker": "A"
+    },
+    {
+      "text": "不是",
+      "start": 408,
+      "end": 668,
+      "confidence": 0.997,
+      "speaker": "A"
+    },
+    {
+      "text": "我们",
+      "start": 668,
+      "end": 909,
+      "confidence": 1,
+      "speaker": "A"
+    },
+    {
+      "text": "带",
+      "start": 909,
+      "end": 1069,
+      "confidence": 0.997,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 1069,
+      "end": 1209,
+      "confidence": 0.996,
+      "speaker": "A"
+    },
+    {
+      "text": "好",
+      "start": 1209,
+      "end": 1509,
+      "confidence": 0.999,
+      "speaker": "A"
+    },
+    {
+      "text": "他",
+      "start": 1509,
+      "end": 1689,
+      "confidence": 0.925,
+      "speaker": "A"
+    },
+    {
+      "text": "因为",
+      "start": 1689,
+      "end": 2029,
+      "confidence": 0.994,
+      "speaker": "A"
+    },
+    {
+      "text": "本身",
+      "start": 2029,
+      "end": 2810,
+      "confidence": 0.9495,
+      "speaker": "A"
+    },
+    {
+      "text": "东西",
+      "start": 2810,
+      "end": 3110,
+      "confidence": 0.981,
+      "speaker": "A"
+    },
+    {
+      "text": "好",
+      "start": 3110,
+      "end": 3310,
+      "confidence": 0.984,
+      "speaker": "A"
+    },
+    {
+      "text": "价格便宜",
+      "start": 3310,
+      "end": 4111,
+      "confidence": 0.97925,
+      "speaker": "A"
+    },
+    {
+      "text": "很少",
+      "start": 4111,
+      "end": 4631,
+      "confidence": 0.9395,
+      "speaker": "A"
+    },
+    {
+      "text": "各",
+      "start": 4631,
+      "end": 4771,
+      "confidence": 0.97,
+      "speaker": "A"
+    },
+    {
+      "text": "大网",
+      "start": 4771,
+      "end": 5151,
+      "confidence": 0.9515,
+      "speaker": "A"
+    },
+    {
+      "text": "红",
+      "start": 5151,
+      "end": 5291,
+      "confidence": 0.857,
+      "speaker": "A"
+    },
+    {
+      "text": "直播间",
+      "start": 5291,
+      "end": 5952,
+      "confidence": 0.88166666,
+      "speaker": "A"
+    },
+    {
+      "text": "去",
+      "start": 5952,
+      "end": 6092,
+      "confidence": 0.996,
+      "speaker": "A"
+    },
+    {
+      "text": "哪",
+      "start": 6092,
+      "end": 6272,
+      "confidence": 0.957,
+      "speaker": "A"
+    },
+    {
+      "text": "都",
+      "start": 6272,
+      "end": 6432,
+      "confidence": 0.94,
+      "speaker": "A"
+    },
+    {
+      "text": "好",
+      "start": 6432,
+      "end": 6552,
+      "confidence": 0.841,
+      "speaker": "A"
+    },
+    {
+      "text": "卖",
+      "start": 6552,
+      "end": 6772,
+      "confidence": 0.948,
+      "speaker": "A"
+    },
+    {
+      "text": "抖",
+      "start": 6772,
+      "end": 6912,
+      "confidence": 0.866,
+      "speaker": "A"
+    },
+    {
+      "text": "音能",
+      "start": 6912,
+      "end": 7152,
+      "confidence": 0.8675,
+      "speaker": "A"
+    },
+    {
+      "text": "卖",
+      "start": 7152,
+      "end": 7272,
+      "confidence": 0.963,
+      "speaker": "A"
+    },
+    {
+      "text": "到",
+      "start": 7272,
+      "end": 7473,
+      "confidence": 0.997,
+      "speaker": "A"
+    },
+    {
+      "text": "第一名",
+      "start": 7473,
+      "end": 7833,
+      "confidence": 0.85366666,
+      "speaker": "A"
+    },
+    {
+      "text": "这",
+      "start": 7833,
+      "end": 8032,
+      "confidence": 0.903,
+      "speaker": "A"
+    },
+    {
+      "text": "说明",
+      "start": 8032,
+      "end": 8753,
+      "confidence": 0.9885,
+      "speaker": "A"
+    },
+    {
+      "text": "说明",
+      "start": 8753,
+      "end": 8953,
+      "confidence": 0.8505,
+      "speaker": "A"
+    },
+    {
+      "text": "了",
+      "start": 8953,
+      "end": 9034,
+      "confidence": 0.836,
+      "speaker": "A"
+    },
+    {
+      "text": "很多",
+      "start": 9034,
+      "end": 9294,
+      "confidence": 0.9525,
+      "speaker": "A"
+    },
+    {
+      "text": "问题",
+      "start": 9294,
+      "end": 9794,
+      "confidence": 0.999,
+      "speaker": "A"
+    },
+    {
+      "text": "对",
+      "start": 9794,
+      "end": 10254,
+      "confidence": 0.994,
+      "speaker": "A"
+    },
+    {
+      "text": "好",
+      "start": 10254,
+      "end": 10955,
+      "confidence": 0.999,
+      "speaker": "A"
+    },
+    {
+      "text": "这个",
+      "start": 10955,
+      "end": 11195,
+      "confidence": 0.9975,
+      "speaker": "A"
+    },
+    {
+      "text": "是",
+      "start": 11195,
+      "end": 11475,
+      "confidence": 0.98,
+      "speaker": "A"
+    },
+    {
+      "text": "著名",
+      "start": 11475,
+      "end": 11735,
+      "confidence": 0.8445,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 11735,
+      "end": 11895,
+      "confidence": 0.997,
+      "speaker": "A"
+    },
+    {
+      "text": "吉普",
+      "start": 11895,
+      "end": 12336,
+      "confidence": 0.914,
+      "speaker": "A"
+    },
+    {
+      "text": "这个",
+      "start": 12336,
+      "end": 12576,
+      "confidence": 0.999,
+      "speaker": "A"
+    },
+    {
+      "text": "不用",
+      "start": 12576,
+      "end": 12796,
+      "confidence": 1,
+      "speaker": "A"
+    },
+    {
+      "text": "解释",
+      "start": 12796,
+      "end": 13056,
+      "confidence": 0.9075,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 13056,
+      "end": 13156,
+      "confidence": 0.991,
+      "speaker": "A"
+    },
+    {
+      "text": "牌子",
+      "start": 13156,
+      "end": 13456,
+      "confidence": 0.9865,
+      "speaker": "A"
+    },
+    {
+      "text": "了",
+      "start": 13456,
+      "end": 13676,
+      "confidence": 0.917,
+      "speaker": "A"
+    },
+    {
+      "text": "比如说",
+      "start": 13676,
+      "end": 14037,
+      "confidence": 0.831,
+      "speaker": "A"
+    },
+    {
+      "text": "钓鱼",
+      "start": 14037,
+      "end": 14397,
+      "confidence": 0.9565,
+      "speaker": "A"
+    },
+    {
+      "text": "路营",
+      "start": 14397,
+      "end": 14697,
+      "confidence": 0.9155,
+      "speaker": "A"
+    },
+    {
+      "text": "登山",
+      "start": 14697,
+      "end": 15077,
+      "confidence": 0.952,
+      "speaker": "A"
+    },
+    {
+      "text": "等等",
+      "start": 15077,
+      "end": 15377,
+      "confidence": 0.8945,
+      "speaker": "A"
+    },
+    {
+      "text": "遇到",
+      "start": 15377,
+      "end": 15678,
+      "confidence": 0.9855,
+      "speaker": "A"
+    },
+    {
+      "text": "潜水",
+      "start": 15678,
+      "end": 16618,
+      "confidence": 0.982,
+      "speaker": "A"
+    },
+    {
+      "text": "鞋子",
+      "start": 16618,
+      "end": 17138,
+      "confidence": 0.9625,
+      "speaker": "A"
+    },
+    {
+      "text": "浸泡",
+      "start": 17138,
+      "end": 17319,
+      "confidence": 0.6985,
+      "speaker": "A"
+    },
+    {
+      "text": "到",
+      "start": 17319,
+      "end": 17499,
+      "confidence": 0.902,
+      "speaker": "A"
+    },
+    {
+      "text": "水中",
+      "start": 17499,
+      "end": 18039,
+      "confidence": 0.9985,
+      "speaker": "A"
+    },
+    {
+      "text": "正常",
+      "start": 18039,
+      "end": 18399,
+      "confidence": 0.994,
+      "speaker": "A"
+    },
+    {
+      "text": "躺",
+      "start": 18399,
+      "end": 18639,
+      "confidence": 0.917,
+      "speaker": "A"
+    },
+    {
+      "text": "水",
+      "start": 18639,
+      "end": 18800,
+      "confidence": 1,
+      "speaker": "A"
+    },
+    {
+      "text": "什么",
+      "start": 18800,
+      "end": 18980,
+      "confidence": 1,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 18980,
+      "end": 19100,
+      "confidence": 0.994,
+      "speaker": "A"
+    },
+    {
+      "text": "都",
+      "start": 19100,
+      "end": 19200,
+      "confidence": 1,
+      "speaker": "A"
+    },
+    {
+      "text": "没",
+      "start": 19200,
+      "end": 19340,
+      "confidence": 0.848,
+      "speaker": "A"
+    },
+    {
+      "text": "问题",
+      "start": 19340,
+      "end": 19560,
+      "confidence": 1,
+      "speaker": "A"
+    },
+    {
+      "text": "鞋面",
+      "start": 19720,
+      "end": 20120,
+      "confidence": 0.952,
+      "speaker": "A"
+    },
+    {
+      "text": "有",
+      "start": 20120,
+      "end": 20260,
+      "confidence": 0.979,
+      "speaker": "A"
+    },
+    {
+      "text": "两层",
+      "start": 20260,
+      "end": 20720,
+      "confidence": 0.992,
+      "speaker": "A"
+    },
+    {
+      "text": "第一层",
+      "start": 20720,
+      "end": 21101,
+      "confidence": 0.83166665,
+      "speaker": "A"
+    },
+    {
+      "text": "是",
+      "start": 21101,
+      "end": 21281,
+      "confidence": 0.951,
+      "speaker": "A"
+    },
+    {
+      "text": "织物",
+      "start": 21281,
+      "end": 21621,
+      "confidence": 0.8845,
+      "speaker": "A"
+    },
+    {
+      "text": "面",
+      "start": 21621,
+      "end": 21901,
+      "confidence": 0.975,
+      "speaker": "A"
+    },
+    {
+      "text": "有",
+      "start": 21901,
+      "end": 22021,
+      "confidence": 0.999,
+      "speaker": "A"
+    },
+    {
+      "text": "一点点",
+      "start": 22021,
+      "end": 22521,
+      "confidence": 0.9853333,
+      "speaker": "A"
+    },
+    {
+      "text": "防水",
+      "start": 22521,
+      "end": 22801,
+      "confidence": 0.9975,
+      "speaker": "A"
+    },
+    {
+      "text": "效果",
+      "start": 22801,
+      "end": 23201,
+      "confidence": 0.9045,
+      "speaker": "A"
+    },
+    {
+      "text": "能",
+      "start": 23201,
+      "end": 23361,
+      "confidence": 1,
+      "speaker": "A"
+    },
+    {
+      "text": "应对",
+      "start": 23361,
+      "end": 23762,
+      "confidence": 0.9765,
+      "speaker": "A"
+    },
+    {
+      "text": "日常生活",
+      "start": 23762,
+      "end": 24362,
+      "confidence": 0.99275,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 24362,
+      "end": 24482,
+      "confidence": 0.887,
+      "speaker": "A"
+    },
+    {
+      "text": "破",
+      "start": 24482,
+      "end": 24942,
+      "confidence": 0.868,
+      "speaker": "A"
+    },
+    {
+      "text": "茧",
+      "start": 24942,
+      "end": 25032,
+      "confidence": 0.5,
+      "speaker": "A"
+    },
+    {
+      "text": "真正",
+      "start": 25032,
+      "end": 25302,
+      "confidence": 0.968,
+      "speaker": "A"
+    },
+    {
+      "text": "防水",
+      "start": 25302,
+      "end": 25582,
+      "confidence": 0.987,
+      "speaker": "A"
+    },
+    {
+      "text": "能力",
+      "start": 25582,
+      "end": 25902,
+      "confidence": 0.9985,
+      "speaker": "A"
+    },
+    {
+      "text": "靠",
+      "start": 25902,
+      "end": 26082,
+      "confidence": 0.892,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 26082,
+      "end": 26182,
+      "confidence": 0.956,
+      "speaker": "A"
+    },
+    {
+      "text": "是",
+      "start": 26182,
+      "end": 26303,
+      "confidence": 0.83,
+      "speaker": "A"
+    },
+    {
+      "text": "第二层",
+      "start": 26303,
+      "end": 26863,
+      "confidence": 0.974,
+      "speaker": "A"
+    },
+    {
+      "text": "第二层",
+      "start": 26863,
+      "end": 27283,
+      "confidence": 0.9863333,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 27283,
+      "end": 27383,
+      "confidence": 0.998,
+      "speaker": "A"
+    },
+    {
+      "text": "内层",
+      "start": 27383,
+      "end": 27803,
+      "confidence": 0.9805,
+      "speaker": "A"
+    },
+    {
+      "text": "有",
+      "start": 27803,
+      "end": 27923,
+      "confidence": 0.993,
+      "speaker": "A"
+    },
+    {
+      "text": "一层",
+      "start": 27923,
+      "end": 28843,
+      "confidence": 0.9905,
+      "speaker": "A"
+    },
+    {
+      "text": "防水",
+      "start": 28843,
+      "end": 29304,
+      "confidence": 0.9985,
+      "speaker": "A"
+    },
+    {
+      "text": "透气",
+      "start": 29304,
+      "end": 29724,
+      "confidence": 0.954,
+      "speaker": "A"
+    },
+    {
+      "text": "膜",
+      "start": 29724,
+      "end": 30444,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "它",
+      "start": 30444,
+      "end": 30744,
+      "confidence": 0.958,
+      "speaker": "A"
+    },
+    {
+      "text": "透气",
+      "start": 30744,
+      "end": 31344,
+      "confidence": 0.975,
+      "speaker": "A"
+    },
+    {
+      "text": "不透水",
+      "start": 31344,
+      "end": 32645,
+      "confidence": 0.98466665,
+      "speaker": "A"
+    },
+    {
+      "text": "鞋面",
+      "start": 32645,
+      "end": 33065,
+      "confidence": 0.892,
+      "speaker": "A"
+    },
+    {
+      "text": "采用",
+      "start": 33065,
+      "end": 33345,
+      "confidence": 0.93,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 33345,
+      "end": 33445,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "是非",
+      "start": 33445,
+      "end": 33745,
+      "confidence": 0.889,
+      "speaker": "A"
+    },
+    {
+      "text": "织",
+      "start": 33745,
+      "end": 33905,
+      "confidence": 0.875,
+      "speaker": "A"
+    },
+    {
+      "text": "工艺",
+      "start": 33905,
+      "end": 34686,
+      "confidence": 0.942,
+      "speaker": "A"
+    },
+    {
+      "text": "它",
+      "start": 34686,
+      "end": 34826,
+      "confidence": 0.904,
+      "speaker": "A"
+    },
+    {
+      "text": "是",
+      "start": 34826,
+      "end": 34906,
+      "confidence": 0.751,
+      "speaker": "A"
+    },
+    {
+      "text": "用",
+      "start": 34906,
+      "end": 35106,
+      "confidence": 1,
+      "speaker": "A"
+    },
+    {
+      "text": "各种",
+      "start": 35106,
+      "end": 35386,
+      "confidence": 0.9985,
+      "speaker": "A"
+    },
+    {
+      "text": "纱线",
+      "start": 35386,
+      "end": 35786,
+      "confidence": 0.9215,
+      "speaker": "A"
+    },
+    {
+      "text": "一体",
+      "start": 35786,
+      "end": 36066,
+      "confidence": 0.9,
+      "speaker": "A"
+    },
+    {
+      "text": "成型",
+      "start": 36066,
+      "end": 36466,
+      "confidence": 0.949,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 36466,
+      "end": 36887,
+      "confidence": 0.999,
+      "speaker": "A"
+    },
+    {
+      "text": "搭配",
+      "start": 36887,
+      "end": 37307,
+      "confidence": 0.907,
+      "speaker": "A"
+    },
+    {
+      "text": "鞋底",
+      "start": 37307,
+      "end": 37627,
+      "confidence": 0.928,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 37627,
+      "end": 37787,
+      "confidence": 0.997,
+      "speaker": "A"
+    },
+    {
+      "text": "锯齿",
+      "start": 37787,
+      "end": 38107,
+      "confidence": 0.874,
+      "speaker": "A"
+    },
+    {
+      "text": "纹路",
+      "start": 38107,
+      "end": 38607,
+      "confidence": 0.935,
+      "speaker": "A"
+    },
+    {
+      "text": "增强",
+      "start": 38607,
+      "end": 38867,
+      "confidence": 0.8955,
+      "speaker": "A"
+    },
+    {
+      "text": "了",
+      "start": 38867,
+      "end": 39007,
+      "confidence": 0.898,
+      "speaker": "A"
+    },
+    {
+      "text": "抓",
+      "start": 39007,
+      "end": 39187,
+      "confidence": 0.998,
+      "speaker": "A"
+    },
+    {
+      "text": "地力",
+      "start": 39187,
+      "end": 39788,
+      "confidence": 0.9415,
+      "speaker": "A"
+    },
+    {
+      "text": "更加",
+      "start": 39788,
+      "end": 40068,
+      "confidence": 0.99,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 40068,
+      "end": 40208,
+      "confidence": 0.993,
+      "speaker": "A"
+    },
+    {
+      "text": "适合",
+      "start": 40208,
+      "end": 40548,
+      "confidence": 0.952,
+      "speaker": "A"
+    },
+    {
+      "text": "户外",
+      "start": 40548,
+      "end": 40788,
+      "confidence": 0.893,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 40788,
+      "end": 40868,
+      "confidence": 0.814,
+      "speaker": "A"
+    },
+    {
+      "text": "运动",
+      "start": 40868,
+      "end": 41188,
+      "confidence": 0.8745,
+      "speaker": "A"
+    },
+    {
+      "text": "所以",
+      "start": 41188,
+      "end": 41548,
+      "confidence": 0.7895,
+      "speaker": "A"
+    },
+    {
+      "text": "这个",
+      "start": 41548,
+      "end": 41768,
+      "confidence": 0.998,
+      "speaker": "A"
+    },
+    {
+      "text": "脚踝",
+      "start": 41768,
+      "end": 42229,
+      "confidence": 0.922,
+      "speaker": "A"
+    },
+    {
+      "text": "包裹",
+      "start": 42229,
+      "end": 42569,
+      "confidence": 0.9405,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 42569,
+      "end": 42669,
+      "confidence": 0.986,
+      "speaker": "A"
+    },
+    {
+      "text": "也",
+      "start": 42669,
+      "end": 42789,
+      "confidence": 0.971,
+      "speaker": "A"
+    },
+    {
+      "text": "非常",
+      "start": 42789,
+      "end": 43129,
+      "confidence": 0.928,
+      "speaker": "A"
+    },
+    {
+      "text": "好",
+      "start": 43129,
+      "end": 43149,
+      "confidence": 0.692,
+      "speaker": "A"
+    },
+    {
+      "text": "来自",
+      "start": 43689,
+      "end": 44089,
+      "confidence": 0.997,
+      "speaker": "A"
+    },
+    {
+      "text": "知名品牌",
+      "start": 44089,
+      "end": 45710,
+      "confidence": 0.95,
+      "speaker": "A"
+    },
+    {
+      "text": "极普",
+      "start": 45710,
+      "end": 46370,
+      "confidence": 0.8935,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 46370,
+      "end": 47451,
+      "confidence": 0.921,
+      "speaker": "A"
+    },
+    {
+      "text": "980",
+      "start": 47451,
+      "end": 47573,
+      "confidence": 0.5,
+      "speaker": "A"
+    },
+    {
+      "text": "块钱",
+      "start": 47573,
+      "end": 47771,
+      "confidence": 0.961,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 47771,
+      "end": 47911,
+      "confidence": 0.98,
+      "speaker": "A"
+    },
+    {
+      "text": "鞋",
+      "start": 47911,
+      "end": 48211,
+      "confidence": 0.884,
+      "speaker": "A"
+    },
+    {
+      "text": "我们",
+      "start": 48211,
+      "end": 48951,
+      "confidence": 0.938,
+      "speaker": "A"
+    },
+    {
+      "text": "24",
+      "start": 48951,
+      "end": 49046,
+      "confidence": 0.5,
+      "speaker": "A"
+    },
+    {
+      "text": "折",
+      "start": 49046,
+      "end": 49132,
+      "confidence": 0.889,
+      "speaker": "A"
+    },
+    {
+      "text": "做到",
+      "start": 49132,
+      "end": 49992,
+      "confidence": 0.8575,
+      "speaker": "A"
+    },
+    {
+      "text": "28",
+      "start": 49992,
+      "end": 50064,
+      "confidence": 0.5,
+      "speaker": "A"
+    },
+    {
+      "text": "块钱",
+      "start": 50064,
+      "end": 50592,
+      "confidence": 0.8655,
+      "speaker": "A"
+    },
+    {
+      "text": "整个",
+      "start": 50592,
+      "end": 50912,
+      "confidence": 0.948,
+      "speaker": "A"
+    },
+    {
+      "text": "这个",
+      "start": 50912,
+      "end": 51112,
+      "confidence": 0.8605,
+      "speaker": "A"
+    },
+    {
+      "text": "品牌",
+      "start": 51112,
+      "end": 51493,
+      "confidence": 0.994,
+      "speaker": "A"
+    },
+    {
+      "text": "呢",
+      "start": 51493,
+      "end": 51993,
+      "confidence": 0.956,
+      "speaker": "A"
+    },
+    {
+      "text": "公司",
+      "start": 51993,
+      "end": 52233,
+      "confidence": 0.986,
+      "speaker": "A"
+    },
+    {
+      "text": "是",
+      "start": 52233,
+      "end": 52353,
+      "confidence": 0.792,
+      "speaker": "A"
+    },
+    {
+      "text": "实力",
+      "start": 52353,
+      "end": 52613,
+      "confidence": 0.904,
+      "speaker": "A"
+    },
+    {
+      "text": "非常",
+      "start": 52613,
+      "end": 52833,
+      "confidence": 0.725,
+      "speaker": "A"
+    },
+    {
+      "text": "雄厚",
+      "start": 52833,
+      "end": 53193,
+      "confidence": 0.853,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 53193,
+      "end": 53514,
+      "confidence": 0.982,
+      "speaker": "A"
+    },
+    {
+      "text": "品控",
+      "start": 53514,
+      "end": 53834,
+      "confidence": 0.915,
+      "speaker": "A"
+    },
+    {
+      "text": "也",
+      "start": 53834,
+      "end": 53954,
+      "confidence": 0.846,
+      "speaker": "A"
+    },
+    {
+      "text": "非常",
+      "start": 53954,
+      "end": 54314,
+      "confidence": 0.689,
+      "speaker": "A"
+    },
+    {
+      "text": "严格",
+      "start": 54314,
+      "end": 54714,
+      "confidence": 0.9275,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 54714,
+      "end": 55054,
+      "confidence": 0.992,
+      "speaker": "A"
+    },
+    {
+      "text": "足够",
+      "start": 55054,
+      "end": 55334,
+      "confidence": 0.9255,
+      "speaker": "A"
+    },
+    {
+      "text": "让",
+      "start": 55334,
+      "end": 55414,
+      "confidence": 0.751,
+      "speaker": "A"
+    },
+    {
+      "text": "人",
+      "start": 55414,
+      "end": 55575,
+      "confidence": 0.981,
+      "speaker": "A"
+    },
+    {
+      "text": "放心",
+      "start": 55575,
+      "end": 56055,
+      "confidence": 0.8875,
+      "speaker": "A"
+    },
+    {
+      "text": "您",
+      "start": 56055,
+      "end": 56175,
+      "confidence": 0.774,
+      "speaker": "A"
+    },
+    {
+      "text": "看",
+      "start": 56175,
+      "end": 56315,
+      "confidence": 0.888,
+      "speaker": "A"
+    },
+    {
+      "text": "一下",
+      "start": 56315,
+      "end": 56455,
+      "confidence": 0.4265,
+      "speaker": "A"
+    },
+    {
+      "text": "价格",
+      "start": 56455,
+      "end": 56895,
+      "confidence": 0.897,
+      "speaker": "A"
+    },
+    {
+      "text": "确实",
+      "start": 56895,
+      "end": 57135,
+      "confidence": 0.8365,
+      "speaker": "A"
+    },
+    {
+      "text": "划算",
+      "start": 57135,
+      "end": 57495,
+      "confidence": 0.905,
+      "speaker": "A"
+    },
+    {
+      "text": "您",
+      "start": 57495,
+      "end": 57635,
+      "confidence": 0.857,
+      "speaker": "A"
+    },
+    {
+      "text": "就",
+      "start": 57635,
+      "end": 57756,
+      "confidence": 0.832,
+      "speaker": "A"
+    },
+    {
+      "text": "下单",
+      "start": 57756,
+      "end": 58316,
+      "confidence": 0.8395,
+      "speaker": "A"
+    },
+    {
+      "text": "对",
+      "start": 58316,
+      "end": 58636,
+      "confidence": 0.894,
+      "speaker": "A"
+    },
+    {
+      "text": "对",
+      "start": 58636,
+      "end": 58836,
+      "confidence": 0.943,
+      "speaker": "A"
+    },
+    {
+      "text": "这个",
+      "start": 58836,
+      "end": 59016,
+      "confidence": 0.986,
+      "speaker": "A"
+    },
+    {
+      "text": "不是",
+      "start": 59016,
+      "end": 59236,
+      "confidence": 0.997,
+      "speaker": "A"
+    },
+    {
+      "text": "总有",
+      "start": 59236,
+      "end": 59796,
+      "confidence": 0.9575,
+      "speaker": "A"
+    },
+    {
+      "text": "有",
+      "start": 59796,
+      "end": 59957,
+      "confidence": 0.922,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 59957,
+      "end": 60077,
+      "confidence": 0.95,
+      "speaker": "A"
+    },
+    {
+      "text": "时候",
+      "start": 60077,
+      "end": 60257,
+      "confidence": 0.645,
+      "speaker": "A"
+    },
+    {
+      "text": "你",
+      "start": 60257,
+      "end": 60397,
+      "confidence": 0.988,
+      "speaker": "A"
+    },
+    {
+      "text": "赶上",
+      "start": 60397,
+      "end": 60837,
+      "confidence": 0.953,
+      "speaker": "A"
+    },
+    {
+      "text": "就",
+      "start": 60837,
+      "end": 60957,
+      "confidence": 0.999,
+      "speaker": "A"
+    },
+    {
+      "text": "赚",
+      "start": 60957,
+      "end": 61157,
+      "confidence": 0.909,
+      "speaker": "A"
+    },
+    {
+      "text": "翻",
+      "start": 61157,
+      "end": 61337,
+      "confidence": 0.886,
+      "speaker": "A"
+    },
+    {
+      "text": "了",
+      "start": 61337,
+      "end": 62138,
+      "confidence": 0.9,
+      "speaker": "A"
+    },
+    {
+      "text": "这个",
+      "start": 62138,
+      "end": 62358,
+      "confidence": 0.996,
+      "speaker": "A"
+    },
+    {
+      "text": "价格",
+      "start": 62358,
+      "end": 62918,
+      "confidence": 0.9905,
+      "speaker": "A"
+    },
+    {
+      "text": "真是",
+      "start": 62918,
+      "end": 63358,
+      "confidence": 0.936,
+      "speaker": "A"
+    },
+    {
+      "text": "就",
+      "start": 63358,
+      "end": 63578,
+      "confidence": 0.975,
+      "speaker": "A"
+    },
+    {
+      "text": "交个",
+      "start": 63578,
+      "end": 63878,
+      "confidence": 0.9575,
+      "speaker": "A"
+    },
+    {
+      "text": "朋友",
+      "start": 63878,
+      "end": 64197,
+      "confidence": 0.999,
+      "speaker": "A"
+    },
+    {
+      "text": "库存",
+      "start": 64197,
+      "end": 64438,
+      "confidence": 0.857,
+      "speaker": "A"
+    },
+    {
+      "text": "有限",
+      "start": 64438,
+      "end": 64879,
+      "confidence": 0.9545,
+      "speaker": "A"
+    },
+    {
+      "text": "心动",
+      "start": 64879,
+      "end": 65159,
+      "confidence": 0.911,
+      "speaker": "A"
+    },
+    {
+      "text": "的",
+      "start": 65159,
+      "end": 65259,
+      "confidence": 0.987,
+      "speaker": "A"
+    },
+    {
+      "text": "抓紧.",
+      "start": 65259,
+      "end": 65399,
+      "confidence": 0.4985,
+      "speaker": "A"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "而且 不是 我们 带 的 好 他 因为 本身 东西 好 价格便宜 很少 各 大网 红 直播间 去 哪 都 好 卖 抖 音能 卖 到 第一名 这 说明 说明 了 很多 问题 对 好 这个 是 著名 的 吉普 这个 不用 解释 的 牌子 了 比如说 钓鱼 路营 登山 等等 遇到 潜水 鞋子 浸泡 到 水中 正常 躺 水 什么 的 都 没 问题 鞋面 有 两层 第一层 是 织物 面 有 一点点 防水 效果 能 应对 日常生活 的 破 茧 真正 防水 能力 靠 的 是 第二层 第二层 的 内层 有 一层 防水 透气 膜 它 透气 不透水 鞋面 采用 的 是非 织 工艺 它 是 用 各种 纱线 一体 成型 的 搭配 鞋底 的 锯齿 纹路 增强 了 抓 地力 更加 的 适合 户外 的 运动 所以 这个 脚踝 包裹 的 也 非常 好 来自 知名品牌 极普 的 980 块钱 的 鞋 我们 24 折 做到 28 块钱 整个 这个 品牌 呢 公司 是 实力 非常 雄厚 的 品控 也 非常 严格 的 足够 让 人 放心 您 看 一下 价格 确实 划算 您 就 下单 对 对 这个 不是 总有 有 的 时候 你 赶上 就 赚 翻 了 这个 价格 真是 就 交个 朋友 库存 有限 心动 的 抓紧.",
+      "confidence": 0.9189477,
+      "start": 128,
+      "end": 65399,
+      "words": [
+        {
+          "text": "而且",
+          "start": 128,
+          "end": 408,
+          "confidence": 1,
+          "speaker": "A"
+        },
+        {
+          "text": "不是",
+          "start": 408,
+          "end": 668,
+          "confidence": 0.997,
+          "speaker": "A"
+        },
+        {
+          "text": "我们",
+          "start": 668,
+          "end": 909,
+          "confidence": 1,
+          "speaker": "A"
+        },
+        {
+          "text": "带",
+          "start": 909,
+          "end": 1069,
+          "confidence": 0.997,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 1069,
+          "end": 1209,
+          "confidence": 0.996,
+          "speaker": "A"
+        },
+        {
+          "text": "好",
+          "start": 1209,
+          "end": 1509,
+          "confidence": 0.999,
+          "speaker": "A"
+        },
+        {
+          "text": "他",
+          "start": 1509,
+          "end": 1689,
+          "confidence": 0.925,
+          "speaker": "A"
+        },
+        {
+          "text": "因为",
+          "start": 1689,
+          "end": 2029,
+          "confidence": 0.994,
+          "speaker": "A"
+        },
+        {
+          "text": "本身",
+          "start": 2029,
+          "end": 2810,
+          "confidence": 0.9495,
+          "speaker": "A"
+        },
+        {
+          "text": "东西",
+          "start": 2810,
+          "end": 3110,
+          "confidence": 0.981,
+          "speaker": "A"
+        },
+        {
+          "text": "好",
+          "start": 3110,
+          "end": 3310,
+          "confidence": 0.984,
+          "speaker": "A"
+        },
+        {
+          "text": "价格便宜",
+          "start": 3310,
+          "end": 4111,
+          "confidence": 0.97925,
+          "speaker": "A"
+        },
+        {
+          "text": "很少",
+          "start": 4111,
+          "end": 4631,
+          "confidence": 0.9395,
+          "speaker": "A"
+        },
+        {
+          "text": "各",
+          "start": 4631,
+          "end": 4771,
+          "confidence": 0.97,
+          "speaker": "A"
+        },
+        {
+          "text": "大网",
+          "start": 4771,
+          "end": 5151,
+          "confidence": 0.9515,
+          "speaker": "A"
+        },
+        {
+          "text": "红",
+          "start": 5151,
+          "end": 5291,
+          "confidence": 0.857,
+          "speaker": "A"
+        },
+        {
+          "text": "直播间",
+          "start": 5291,
+          "end": 5952,
+          "confidence": 0.88166666,
+          "speaker": "A"
+        },
+        {
+          "text": "去",
+          "start": 5952,
+          "end": 6092,
+          "confidence": 0.996,
+          "speaker": "A"
+        },
+        {
+          "text": "哪",
+          "start": 6092,
+          "end": 6272,
+          "confidence": 0.957,
+          "speaker": "A"
+        },
+        {
+          "text": "都",
+          "start": 6272,
+          "end": 6432,
+          "confidence": 0.94,
+          "speaker": "A"
+        },
+        {
+          "text": "好",
+          "start": 6432,
+          "end": 6552,
+          "confidence": 0.841,
+          "speaker": "A"
+        },
+        {
+          "text": "卖",
+          "start": 6552,
+          "end": 6772,
+          "confidence": 0.948,
+          "speaker": "A"
+        },
+        {
+          "text": "抖",
+          "start": 6772,
+          "end": 6912,
+          "confidence": 0.866,
+          "speaker": "A"
+        },
+        {
+          "text": "音能",
+          "start": 6912,
+          "end": 7152,
+          "confidence": 0.8675,
+          "speaker": "A"
+        },
+        {
+          "text": "卖",
+          "start": 7152,
+          "end": 7272,
+          "confidence": 0.963,
+          "speaker": "A"
+        },
+        {
+          "text": "到",
+          "start": 7272,
+          "end": 7473,
+          "confidence": 0.997,
+          "speaker": "A"
+        },
+        {
+          "text": "第一名",
+          "start": 7473,
+          "end": 7833,
+          "confidence": 0.85366666,
+          "speaker": "A"
+        },
+        {
+          "text": "这",
+          "start": 7833,
+          "end": 8032,
+          "confidence": 0.903,
+          "speaker": "A"
+        },
+        {
+          "text": "说明",
+          "start": 8032,
+          "end": 8753,
+          "confidence": 0.9885,
+          "speaker": "A"
+        },
+        {
+          "text": "说明",
+          "start": 8753,
+          "end": 8953,
+          "confidence": 0.8505,
+          "speaker": "A"
+        },
+        {
+          "text": "了",
+          "start": 8953,
+          "end": 9034,
+          "confidence": 0.836,
+          "speaker": "A"
+        },
+        {
+          "text": "很多",
+          "start": 9034,
+          "end": 9294,
+          "confidence": 0.9525,
+          "speaker": "A"
+        },
+        {
+          "text": "问题",
+          "start": 9294,
+          "end": 9794,
+          "confidence": 0.999,
+          "speaker": "A"
+        },
+        {
+          "text": "对",
+          "start": 9794,
+          "end": 10254,
+          "confidence": 0.994,
+          "speaker": "A"
+        },
+        {
+          "text": "好",
+          "start": 10254,
+          "end": 10955,
+          "confidence": 0.999,
+          "speaker": "A"
+        },
+        {
+          "text": "这个",
+          "start": 10955,
+          "end": 11195,
+          "confidence": 0.9975,
+          "speaker": "A"
+        },
+        {
+          "text": "是",
+          "start": 11195,
+          "end": 11475,
+          "confidence": 0.98,
+          "speaker": "A"
+        },
+        {
+          "text": "著名",
+          "start": 11475,
+          "end": 11735,
+          "confidence": 0.8445,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 11735,
+          "end": 11895,
+          "confidence": 0.997,
+          "speaker": "A"
+        },
+        {
+          "text": "吉普",
+          "start": 11895,
+          "end": 12336,
+          "confidence": 0.914,
+          "speaker": "A"
+        },
+        {
+          "text": "这个",
+          "start": 12336,
+          "end": 12576,
+          "confidence": 0.999,
+          "speaker": "A"
+        },
+        {
+          "text": "不用",
+          "start": 12576,
+          "end": 12796,
+          "confidence": 1,
+          "speaker": "A"
+        },
+        {
+          "text": "解释",
+          "start": 12796,
+          "end": 13056,
+          "confidence": 0.9075,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 13056,
+          "end": 13156,
+          "confidence": 0.991,
+          "speaker": "A"
+        },
+        {
+          "text": "牌子",
+          "start": 13156,
+          "end": 13456,
+          "confidence": 0.9865,
+          "speaker": "A"
+        },
+        {
+          "text": "了",
+          "start": 13456,
+          "end": 13676,
+          "confidence": 0.917,
+          "speaker": "A"
+        },
+        {
+          "text": "比如说",
+          "start": 13676,
+          "end": 14037,
+          "confidence": 0.831,
+          "speaker": "A"
+        },
+        {
+          "text": "钓鱼",
+          "start": 14037,
+          "end": 14397,
+          "confidence": 0.9565,
+          "speaker": "A"
+        },
+        {
+          "text": "路营",
+          "start": 14397,
+          "end": 14697,
+          "confidence": 0.9155,
+          "speaker": "A"
+        },
+        {
+          "text": "登山",
+          "start": 14697,
+          "end": 15077,
+          "confidence": 0.952,
+          "speaker": "A"
+        },
+        {
+          "text": "等等",
+          "start": 15077,
+          "end": 15377,
+          "confidence": 0.8945,
+          "speaker": "A"
+        },
+        {
+          "text": "遇到",
+          "start": 15377,
+          "end": 15678,
+          "confidence": 0.9855,
+          "speaker": "A"
+        },
+        {
+          "text": "潜水",
+          "start": 15678,
+          "end": 16618,
+          "confidence": 0.982,
+          "speaker": "A"
+        },
+        {
+          "text": "鞋子",
+          "start": 16618,
+          "end": 17138,
+          "confidence": 0.9625,
+          "speaker": "A"
+        },
+        {
+          "text": "浸泡",
+          "start": 17138,
+          "end": 17319,
+          "confidence": 0.6985,
+          "speaker": "A"
+        },
+        {
+          "text": "到",
+          "start": 17319,
+          "end": 17499,
+          "confidence": 0.902,
+          "speaker": "A"
+        },
+        {
+          "text": "水中",
+          "start": 17499,
+          "end": 18039,
+          "confidence": 0.9985,
+          "speaker": "A"
+        },
+        {
+          "text": "正常",
+          "start": 18039,
+          "end": 18399,
+          "confidence": 0.994,
+          "speaker": "A"
+        },
+        {
+          "text": "躺",
+          "start": 18399,
+          "end": 18639,
+          "confidence": 0.917,
+          "speaker": "A"
+        },
+        {
+          "text": "水",
+          "start": 18639,
+          "end": 18800,
+          "confidence": 1,
+          "speaker": "A"
+        },
+        {
+          "text": "什么",
+          "start": 18800,
+          "end": 18980,
+          "confidence": 1,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 18980,
+          "end": 19100,
+          "confidence": 0.994,
+          "speaker": "A"
+        },
+        {
+          "text": "都",
+          "start": 19100,
+          "end": 19200,
+          "confidence": 1,
+          "speaker": "A"
+        },
+        {
+          "text": "没",
+          "start": 19200,
+          "end": 19340,
+          "confidence": 0.848,
+          "speaker": "A"
+        },
+        {
+          "text": "问题",
+          "start": 19340,
+          "end": 19560,
+          "confidence": 1,
+          "speaker": "A"
+        },
+        {
+          "text": "鞋面",
+          "start": 19720,
+          "end": 20120,
+          "confidence": 0.952,
+          "speaker": "A"
+        },
+        {
+          "text": "有",
+          "start": 20120,
+          "end": 20260,
+          "confidence": 0.979,
+          "speaker": "A"
+        },
+        {
+          "text": "两层",
+          "start": 20260,
+          "end": 20720,
+          "confidence": 0.992,
+          "speaker": "A"
+        },
+        {
+          "text": "第一层",
+          "start": 20720,
+          "end": 21101,
+          "confidence": 0.83166665,
+          "speaker": "A"
+        },
+        {
+          "text": "是",
+          "start": 21101,
+          "end": 21281,
+          "confidence": 0.951,
+          "speaker": "A"
+        },
+        {
+          "text": "织物",
+          "start": 21281,
+          "end": 21621,
+          "confidence": 0.8845,
+          "speaker": "A"
+        },
+        {
+          "text": "面",
+          "start": 21621,
+          "end": 21901,
+          "confidence": 0.975,
+          "speaker": "A"
+        },
+        {
+          "text": "有",
+          "start": 21901,
+          "end": 22021,
+          "confidence": 0.999,
+          "speaker": "A"
+        },
+        {
+          "text": "一点点",
+          "start": 22021,
+          "end": 22521,
+          "confidence": 0.9853333,
+          "speaker": "A"
+        },
+        {
+          "text": "防水",
+          "start": 22521,
+          "end": 22801,
+          "confidence": 0.9975,
+          "speaker": "A"
+        },
+        {
+          "text": "效果",
+          "start": 22801,
+          "end": 23201,
+          "confidence": 0.9045,
+          "speaker": "A"
+        },
+        {
+          "text": "能",
+          "start": 23201,
+          "end": 23361,
+          "confidence": 1,
+          "speaker": "A"
+        },
+        {
+          "text": "应对",
+          "start": 23361,
+          "end": 23762,
+          "confidence": 0.9765,
+          "speaker": "A"
+        },
+        {
+          "text": "日常生活",
+          "start": 23762,
+          "end": 24362,
+          "confidence": 0.99275,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 24362,
+          "end": 24482,
+          "confidence": 0.887,
+          "speaker": "A"
+        },
+        {
+          "text": "破",
+          "start": 24482,
+          "end": 24942,
+          "confidence": 0.868,
+          "speaker": "A"
+        },
+        {
+          "text": "茧",
+          "start": 24942,
+          "end": 25032,
+          "confidence": 0.5,
+          "speaker": "A"
+        },
+        {
+          "text": "真正",
+          "start": 25032,
+          "end": 25302,
+          "confidence": 0.968,
+          "speaker": "A"
+        },
+        {
+          "text": "防水",
+          "start": 25302,
+          "end": 25582,
+          "confidence": 0.987,
+          "speaker": "A"
+        },
+        {
+          "text": "能力",
+          "start": 25582,
+          "end": 25902,
+          "confidence": 0.9985,
+          "speaker": "A"
+        },
+        {
+          "text": "靠",
+          "start": 25902,
+          "end": 26082,
+          "confidence": 0.892,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 26082,
+          "end": 26182,
+          "confidence": 0.956,
+          "speaker": "A"
+        },
+        {
+          "text": "是",
+          "start": 26182,
+          "end": 26303,
+          "confidence": 0.83,
+          "speaker": "A"
+        },
+        {
+          "text": "第二层",
+          "start": 26303,
+          "end": 26863,
+          "confidence": 0.974,
+          "speaker": "A"
+        },
+        {
+          "text": "第二层",
+          "start": 26863,
+          "end": 27283,
+          "confidence": 0.9863333,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 27283,
+          "end": 27383,
+          "confidence": 0.998,
+          "speaker": "A"
+        },
+        {
+          "text": "内层",
+          "start": 27383,
+          "end": 27803,
+          "confidence": 0.9805,
+          "speaker": "A"
+        },
+        {
+          "text": "有",
+          "start": 27803,
+          "end": 27923,
+          "confidence": 0.993,
+          "speaker": "A"
+        },
+        {
+          "text": "一层",
+          "start": 27923,
+          "end": 28843,
+          "confidence": 0.9905,
+          "speaker": "A"
+        },
+        {
+          "text": "防水",
+          "start": 28843,
+          "end": 29304,
+          "confidence": 0.9985,
+          "speaker": "A"
+        },
+        {
+          "text": "透气",
+          "start": 29304,
+          "end": 29724,
+          "confidence": 0.954,
+          "speaker": "A"
+        },
+        {
+          "text": "膜",
+          "start": 29724,
+          "end": 30444,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "它",
+          "start": 30444,
+          "end": 30744,
+          "confidence": 0.958,
+          "speaker": "A"
+        },
+        {
+          "text": "透气",
+          "start": 30744,
+          "end": 31344,
+          "confidence": 0.975,
+          "speaker": "A"
+        },
+        {
+          "text": "不透水",
+          "start": 31344,
+          "end": 32645,
+          "confidence": 0.98466665,
+          "speaker": "A"
+        },
+        {
+          "text": "鞋面",
+          "start": 32645,
+          "end": 33065,
+          "confidence": 0.892,
+          "speaker": "A"
+        },
+        {
+          "text": "采用",
+          "start": 33065,
+          "end": 33345,
+          "confidence": 0.93,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 33345,
+          "end": 33445,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "是非",
+          "start": 33445,
+          "end": 33745,
+          "confidence": 0.889,
+          "speaker": "A"
+        },
+        {
+          "text": "织",
+          "start": 33745,
+          "end": 33905,
+          "confidence": 0.875,
+          "speaker": "A"
+        },
+        {
+          "text": "工艺",
+          "start": 33905,
+          "end": 34686,
+          "confidence": 0.942,
+          "speaker": "A"
+        },
+        {
+          "text": "它",
+          "start": 34686,
+          "end": 34826,
+          "confidence": 0.904,
+          "speaker": "A"
+        },
+        {
+          "text": "是",
+          "start": 34826,
+          "end": 34906,
+          "confidence": 0.751,
+          "speaker": "A"
+        },
+        {
+          "text": "用",
+          "start": 34906,
+          "end": 35106,
+          "confidence": 1,
+          "speaker": "A"
+        },
+        {
+          "text": "各种",
+          "start": 35106,
+          "end": 35386,
+          "confidence": 0.9985,
+          "speaker": "A"
+        },
+        {
+          "text": "纱线",
+          "start": 35386,
+          "end": 35786,
+          "confidence": 0.9215,
+          "speaker": "A"
+        },
+        {
+          "text": "一体",
+          "start": 35786,
+          "end": 36066,
+          "confidence": 0.9,
+          "speaker": "A"
+        },
+        {
+          "text": "成型",
+          "start": 36066,
+          "end": 36466,
+          "confidence": 0.949,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 36466,
+          "end": 36887,
+          "confidence": 0.999,
+          "speaker": "A"
+        },
+        {
+          "text": "搭配",
+          "start": 36887,
+          "end": 37307,
+          "confidence": 0.907,
+          "speaker": "A"
+        },
+        {
+          "text": "鞋底",
+          "start": 37307,
+          "end": 37627,
+          "confidence": 0.928,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 37627,
+          "end": 37787,
+          "confidence": 0.997,
+          "speaker": "A"
+        },
+        {
+          "text": "锯齿",
+          "start": 37787,
+          "end": 38107,
+          "confidence": 0.874,
+          "speaker": "A"
+        },
+        {
+          "text": "纹路",
+          "start": 38107,
+          "end": 38607,
+          "confidence": 0.935,
+          "speaker": "A"
+        },
+        {
+          "text": "增强",
+          "start": 38607,
+          "end": 38867,
+          "confidence": 0.8955,
+          "speaker": "A"
+        },
+        {
+          "text": "了",
+          "start": 38867,
+          "end": 39007,
+          "confidence": 0.898,
+          "speaker": "A"
+        },
+        {
+          "text": "抓",
+          "start": 39007,
+          "end": 39187,
+          "confidence": 0.998,
+          "speaker": "A"
+        },
+        {
+          "text": "地力",
+          "start": 39187,
+          "end": 39788,
+          "confidence": 0.9415,
+          "speaker": "A"
+        },
+        {
+          "text": "更加",
+          "start": 39788,
+          "end": 40068,
+          "confidence": 0.99,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 40068,
+          "end": 40208,
+          "confidence": 0.993,
+          "speaker": "A"
+        },
+        {
+          "text": "适合",
+          "start": 40208,
+          "end": 40548,
+          "confidence": 0.952,
+          "speaker": "A"
+        },
+        {
+          "text": "户外",
+          "start": 40548,
+          "end": 40788,
+          "confidence": 0.893,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 40788,
+          "end": 40868,
+          "confidence": 0.814,
+          "speaker": "A"
+        },
+        {
+          "text": "运动",
+          "start": 40868,
+          "end": 41188,
+          "confidence": 0.8745,
+          "speaker": "A"
+        },
+        {
+          "text": "所以",
+          "start": 41188,
+          "end": 41548,
+          "confidence": 0.7895,
+          "speaker": "A"
+        },
+        {
+          "text": "这个",
+          "start": 41548,
+          "end": 41768,
+          "confidence": 0.998,
+          "speaker": "A"
+        },
+        {
+          "text": "脚踝",
+          "start": 41768,
+          "end": 42229,
+          "confidence": 0.922,
+          "speaker": "A"
+        },
+        {
+          "text": "包裹",
+          "start": 42229,
+          "end": 42569,
+          "confidence": 0.9405,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 42569,
+          "end": 42669,
+          "confidence": 0.986,
+          "speaker": "A"
+        },
+        {
+          "text": "也",
+          "start": 42669,
+          "end": 42789,
+          "confidence": 0.971,
+          "speaker": "A"
+        },
+        {
+          "text": "非常",
+          "start": 42789,
+          "end": 43129,
+          "confidence": 0.928,
+          "speaker": "A"
+        },
+        {
+          "text": "好",
+          "start": 43129,
+          "end": 43149,
+          "confidence": 0.692,
+          "speaker": "A"
+        },
+        {
+          "text": "来自",
+          "start": 43689,
+          "end": 44089,
+          "confidence": 0.997,
+          "speaker": "A"
+        },
+        {
+          "text": "知名品牌",
+          "start": 44089,
+          "end": 45710,
+          "confidence": 0.95,
+          "speaker": "A"
+        },
+        {
+          "text": "极普",
+          "start": 45710,
+          "end": 46370,
+          "confidence": 0.8935,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 46370,
+          "end": 47451,
+          "confidence": 0.921,
+          "speaker": "A"
+        },
+        {
+          "text": "980",
+          "start": 47451,
+          "end": 47573,
+          "confidence": 0.5,
+          "speaker": "A"
+        },
+        {
+          "text": "块钱",
+          "start": 47573,
+          "end": 47771,
+          "confidence": 0.961,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 47771,
+          "end": 47911,
+          "confidence": 0.98,
+          "speaker": "A"
+        },
+        {
+          "text": "鞋",
+          "start": 47911,
+          "end": 48211,
+          "confidence": 0.884,
+          "speaker": "A"
+        },
+        {
+          "text": "我们",
+          "start": 48211,
+          "end": 48951,
+          "confidence": 0.938,
+          "speaker": "A"
+        },
+        {
+          "text": "24",
+          "start": 48951,
+          "end": 49046,
+          "confidence": 0.5,
+          "speaker": "A"
+        },
+        {
+          "text": "折",
+          "start": 49046,
+          "end": 49132,
+          "confidence": 0.889,
+          "speaker": "A"
+        },
+        {
+          "text": "做到",
+          "start": 49132,
+          "end": 49992,
+          "confidence": 0.8575,
+          "speaker": "A"
+        },
+        {
+          "text": "28",
+          "start": 49992,
+          "end": 50064,
+          "confidence": 0.5,
+          "speaker": "A"
+        },
+        {
+          "text": "块钱",
+          "start": 50064,
+          "end": 50592,
+          "confidence": 0.8655,
+          "speaker": "A"
+        },
+        {
+          "text": "整个",
+          "start": 50592,
+          "end": 50912,
+          "confidence": 0.948,
+          "speaker": "A"
+        },
+        {
+          "text": "这个",
+          "start": 50912,
+          "end": 51112,
+          "confidence": 0.8605,
+          "speaker": "A"
+        },
+        {
+          "text": "品牌",
+          "start": 51112,
+          "end": 51493,
+          "confidence": 0.994,
+          "speaker": "A"
+        },
+        {
+          "text": "呢",
+          "start": 51493,
+          "end": 51993,
+          "confidence": 0.956,
+          "speaker": "A"
+        },
+        {
+          "text": "公司",
+          "start": 51993,
+          "end": 52233,
+          "confidence": 0.986,
+          "speaker": "A"
+        },
+        {
+          "text": "是",
+          "start": 52233,
+          "end": 52353,
+          "confidence": 0.792,
+          "speaker": "A"
+        },
+        {
+          "text": "实力",
+          "start": 52353,
+          "end": 52613,
+          "confidence": 0.904,
+          "speaker": "A"
+        },
+        {
+          "text": "非常",
+          "start": 52613,
+          "end": 52833,
+          "confidence": 0.725,
+          "speaker": "A"
+        },
+        {
+          "text": "雄厚",
+          "start": 52833,
+          "end": 53193,
+          "confidence": 0.853,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 53193,
+          "end": 53514,
+          "confidence": 0.982,
+          "speaker": "A"
+        },
+        {
+          "text": "品控",
+          "start": 53514,
+          "end": 53834,
+          "confidence": 0.915,
+          "speaker": "A"
+        },
+        {
+          "text": "也",
+          "start": 53834,
+          "end": 53954,
+          "confidence": 0.846,
+          "speaker": "A"
+        },
+        {
+          "text": "非常",
+          "start": 53954,
+          "end": 54314,
+          "confidence": 0.689,
+          "speaker": "A"
+        },
+        {
+          "text": "严格",
+          "start": 54314,
+          "end": 54714,
+          "confidence": 0.9275,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 54714,
+          "end": 55054,
+          "confidence": 0.992,
+          "speaker": "A"
+        },
+        {
+          "text": "足够",
+          "start": 55054,
+          "end": 55334,
+          "confidence": 0.9255,
+          "speaker": "A"
+        },
+        {
+          "text": "让",
+          "start": 55334,
+          "end": 55414,
+          "confidence": 0.751,
+          "speaker": "A"
+        },
+        {
+          "text": "人",
+          "start": 55414,
+          "end": 55575,
+          "confidence": 0.981,
+          "speaker": "A"
+        },
+        {
+          "text": "放心",
+          "start": 55575,
+          "end": 56055,
+          "confidence": 0.8875,
+          "speaker": "A"
+        },
+        {
+          "text": "您",
+          "start": 56055,
+          "end": 56175,
+          "confidence": 0.774,
+          "speaker": "A"
+        },
+        {
+          "text": "看",
+          "start": 56175,
+          "end": 56315,
+          "confidence": 0.888,
+          "speaker": "A"
+        },
+        {
+          "text": "一下",
+          "start": 56315,
+          "end": 56455,
+          "confidence": 0.4265,
+          "speaker": "A"
+        },
+        {
+          "text": "价格",
+          "start": 56455,
+          "end": 56895,
+          "confidence": 0.897,
+          "speaker": "A"
+        },
+        {
+          "text": "确实",
+          "start": 56895,
+          "end": 57135,
+          "confidence": 0.8365,
+          "speaker": "A"
+        },
+        {
+          "text": "划算",
+          "start": 57135,
+          "end": 57495,
+          "confidence": 0.905,
+          "speaker": "A"
+        },
+        {
+          "text": "您",
+          "start": 57495,
+          "end": 57635,
+          "confidence": 0.857,
+          "speaker": "A"
+        },
+        {
+          "text": "就",
+          "start": 57635,
+          "end": 57756,
+          "confidence": 0.832,
+          "speaker": "A"
+        },
+        {
+          "text": "下单",
+          "start": 57756,
+          "end": 58316,
+          "confidence": 0.8395,
+          "speaker": "A"
+        },
+        {
+          "text": "对",
+          "start": 58316,
+          "end": 58636,
+          "confidence": 0.894,
+          "speaker": "A"
+        },
+        {
+          "text": "对",
+          "start": 58636,
+          "end": 58836,
+          "confidence": 0.943,
+          "speaker": "A"
+        },
+        {
+          "text": "这个",
+          "start": 58836,
+          "end": 59016,
+          "confidence": 0.986,
+          "speaker": "A"
+        },
+        {
+          "text": "不是",
+          "start": 59016,
+          "end": 59236,
+          "confidence": 0.997,
+          "speaker": "A"
+        },
+        {
+          "text": "总有",
+          "start": 59236,
+          "end": 59796,
+          "confidence": 0.9575,
+          "speaker": "A"
+        },
+        {
+          "text": "有",
+          "start": 59796,
+          "end": 59957,
+          "confidence": 0.922,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 59957,
+          "end": 60077,
+          "confidence": 0.95,
+          "speaker": "A"
+        },
+        {
+          "text": "时候",
+          "start": 60077,
+          "end": 60257,
+          "confidence": 0.645,
+          "speaker": "A"
+        },
+        {
+          "text": "你",
+          "start": 60257,
+          "end": 60397,
+          "confidence": 0.988,
+          "speaker": "A"
+        },
+        {
+          "text": "赶上",
+          "start": 60397,
+          "end": 60837,
+          "confidence": 0.953,
+          "speaker": "A"
+        },
+        {
+          "text": "就",
+          "start": 60837,
+          "end": 60957,
+          "confidence": 0.999,
+          "speaker": "A"
+        },
+        {
+          "text": "赚",
+          "start": 60957,
+          "end": 61157,
+          "confidence": 0.909,
+          "speaker": "A"
+        },
+        {
+          "text": "翻",
+          "start": 61157,
+          "end": 61337,
+          "confidence": 0.886,
+          "speaker": "A"
+        },
+        {
+          "text": "了",
+          "start": 61337,
+          "end": 62138,
+          "confidence": 0.9,
+          "speaker": "A"
+        },
+        {
+          "text": "这个",
+          "start": 62138,
+          "end": 62358,
+          "confidence": 0.996,
+          "speaker": "A"
+        },
+        {
+          "text": "价格",
+          "start": 62358,
+          "end": 62918,
+          "confidence": 0.9905,
+          "speaker": "A"
+        },
+        {
+          "text": "真是",
+          "start": 62918,
+          "end": 63358,
+          "confidence": 0.936,
+          "speaker": "A"
+        },
+        {
+          "text": "就",
+          "start": 63358,
+          "end": 63578,
+          "confidence": 0.975,
+          "speaker": "A"
+        },
+        {
+          "text": "交个",
+          "start": 63578,
+          "end": 63878,
+          "confidence": 0.9575,
+          "speaker": "A"
+        },
+        {
+          "text": "朋友",
+          "start": 63878,
+          "end": 64197,
+          "confidence": 0.999,
+          "speaker": "A"
+        },
+        {
+          "text": "库存",
+          "start": 64197,
+          "end": 64438,
+          "confidence": 0.857,
+          "speaker": "A"
+        },
+        {
+          "text": "有限",
+          "start": 64438,
+          "end": 64879,
+          "confidence": 0.9545,
+          "speaker": "A"
+        },
+        {
+          "text": "心动",
+          "start": 64879,
+          "end": 65159,
+          "confidence": 0.911,
+          "speaker": "A"
+        },
+        {
+          "text": "的",
+          "start": 65159,
+          "end": 65259,
+          "confidence": 0.987,
+          "speaker": "A"
+        },
+        {
+          "text": "抓紧.",
+          "start": 65259,
+          "end": 65399,
+          "confidence": 0.4985,
+          "speaker": "A"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.9189477,
+  "audio_duration": 66,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": true,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": true,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": 0.9965,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": "universal",
+  "speech_models": null,
+  "speech_model_used": "universal",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 963924,
+  "token_id": 973237
+}

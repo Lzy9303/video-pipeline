@@ -1,0 +1,12 @@
+/.venv/
+/sam2/
+/.idea/
+/test_result/
+/src/sam2/test_result/
+/src/sam2/videos/
+/src/sam2/model/checkpoints/sam2.1_hiera_large.pt
+/src/sa2va/outputs/
+/src/transition/test_result/
+/src/transition/test_resources/input.mp4
+/src/depth/checkpoints/depthfm-v1.ckpt
+/src/bg_removal/resources/mask_test/result/
